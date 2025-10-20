@@ -21,7 +21,7 @@ cd SiameseNeuralNetwork
 - No installations are required — Colab comes with PyTorch pre-installed.
 - You may need to adjust import paths slightly depending on your Colab directory structure.
 
-### Jupyter Notebook (Local)
+### Option 2: Jupyter Notebook (Local)
 1.install required dependencies (use uv)
 ```bash
 uv sync
